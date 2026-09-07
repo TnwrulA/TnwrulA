@@ -1,7 +1,3 @@
-
-
-<img width="1000" height="250" alt="Nab National Basketball Association GIF by NBA" src="https://github.com/user-attachments/assets/7f0161c0-53bc-41ed-a9fa-eb4f1dd6aa60" />
-
 <div align="center">
   <h2>My Tech Stack</h2>
 
@@ -38,4 +34,4 @@
       </td>
     </tr>
   </table>
-</div><img width="300" height="169" alt="Nab National Basketball Association GIF by NBA" src="https://github.com/user-attachments/assets/647c236f-18d3-4e66-b767-38d33d84e2b1" />
+</div><img width="1000" height="350" alt="Nab National Basketball Association GIF by NBA" src="https://github.com/user-attachments/assets/647c236f-18d3-4e66-b767-38d33d84e2b1" />

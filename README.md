@@ -1,3 +1,9 @@
+
+<div align="center">
+  <br/>
+  <img src="./avatar.gif" width="350" alt="Character Animation" />
+</div>
+<img width="300" height="169" alt="Nab National Basketball Association GIF by NBA" src="https://github.com/user-attachments/assets/f83449e2-e0b5-4390-b350-180a1d246963" />
 <div align="center">
   <h2>My Tech Stack</h2>
 
